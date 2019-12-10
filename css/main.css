@@ -73,6 +73,10 @@ h1 {
   text-decoration: none;
 }
 
+section img {
+  display: relative;
+}
+
 .btn {
   display: inline-block;
   text-decoration: none;
@@ -83,6 +87,8 @@ h1 {
   color: #fff;
   font-size: 1.125rem;
   position: absolute;
+  left: 41%;
+  top: 45%;
 }
 
 .footer {
