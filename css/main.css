@@ -74,7 +74,7 @@ h1 {
 }
 
 section img {
-  display: relative;
+  position: relative;
 }
 
 .btn {
