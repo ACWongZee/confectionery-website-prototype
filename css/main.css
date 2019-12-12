@@ -92,6 +92,10 @@ section img {
   top: 45%;
 }
 
+main {
+  margin-left: 1rem;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
